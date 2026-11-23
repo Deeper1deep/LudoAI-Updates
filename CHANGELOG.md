@@ -14,3 +14,11 @@ Install compatibility fix.
 إصلاح مشكلة التثبيت.
 
 SHA-256: `25c58e4209aec20f62204136622a5a175084f164f27e4100bad64dda20bf81c4`
+
+## 1.0.2 (code 3) - 2026-11-23T21:44:36Z
+
+Crash reporter and startup hardening.
+
+تقرير الأخطاء وتحسين بدء التشغيل.
+
+SHA-256: `813c7a57360e44414934e6ad326632c81fb6a993b1a5df31b25ede6f15fce465`
