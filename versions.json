@@ -14,5 +14,21 @@
       "en": "Improvements and fixes.",
       "ar": "تحسينات وإصلاحات."
     }
+  },
+  {
+    "applicationId": "com.ludoai.assistant",
+    "versionName": "1.0.1",
+    "versionCode": 2,
+    "apkUrl": "https://github.com/Deeper1deep/LudoAI-Updates/releases/download/v1.0.1/ludoai-v1.0.1.apk",
+    "sha256": "25c58e4209aec20f62204136622a5a175084f164f27e4100bad64dda20bf81c4",
+    "sizeBytes": 1180653,
+    "certSha256": "af3cf4c1cb3f3a1a92f5ba4d3818c05e427671054a60d50be45aef1339f32174",
+    "minVersionCode": 1,
+    "mandatory": false,
+    "publishedAt": "2026-11-23T21:09:28Z",
+    "releaseNotes": {
+      "en": "Install compatibility fix.",
+      "ar": "إصلاح مشكلة التثبيت."
+    }
   }
 ]
