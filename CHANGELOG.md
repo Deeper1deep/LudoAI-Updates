@@ -22,3 +22,11 @@ Crash reporter and startup hardening.
 تقرير الأخطاء وتحسين بدء التشغيل.
 
 SHA-256: `813c7a57360e44414934e6ad326632c81fb6a993b1a5df31b25ede6f15fce465`
+
+## 1.0.3 (code 4) - 2026-11-24T13:36:43Z
+
+Safer match tracking, explicit piece states, hardened updater and release checks, opt-in learning mode, crash reporter.
+
+تتبع أدق للمباراة، حالات واضحة للقطع، تحديث أكثر أمانًا، وضع التعلم الاختياري، وشاشة تقارير الأعطال.
+
+SHA-256: `b6a5293a5f8a21383d9e9a49871aeb715d0d05b4b8105e4d3d33b70e493ac2c1`

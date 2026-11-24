@@ -46,5 +46,21 @@
       "en": "Crash reporter and startup hardening.",
       "ar": "تقرير الأخطاء وتحسين بدء التشغيل."
     }
+  },
+  {
+    "applicationId": "com.ludoai.assistant",
+    "versionName": "1.0.3",
+    "versionCode": 4,
+    "apkUrl": "https://github.com/Deeper1deep/LudoAI-Updates/releases/download/v1.0.3/ludoai-v1.0.3.apk",
+    "sha256": "b6a5293a5f8a21383d9e9a49871aeb715d0d05b4b8105e4d3d33b70e493ac2c1",
+    "sizeBytes": 6019351,
+    "certSha256": "af3cf4c1cb3f3a1a92f5ba4d3818c05e427671054a60d50be45aef1339f32174",
+    "minVersionCode": 1,
+    "mandatory": false,
+    "publishedAt": "2026-11-24T13:36:43Z",
+    "releaseNotes": {
+      "en": "Safer match tracking, explicit piece states, hardened updater and release checks, opt-in learning mode, crash reporter.",
+      "ar": "تتبع أدق للمباراة، حالات واضحة للقطع، تحديث أكثر أمانًا، وضع التعلم الاختياري، وشاشة تقارير الأعطال."
+    }
   }
 ]
